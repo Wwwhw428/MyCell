@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Row" style="flex-direction: row; height: 60px; align-items: center; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-left-color: rgba(0, 0, 0, 255); border-right-color: rgba(0, 0, 0, 255); border-top-color: rgba(0, 0, 0, 255); border-bottom-color: rgba(0, 0, 0, 255); flex-grow: 0;">
+        <ui:VisualElement name="Icon" style="flex-grow: 0; background-image: url(&apos;project://database/Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/buttonssosigninunity.png?fileID=21300000&amp;guid=f9161c6c9e06dc445ada3ee16d991f90&amp;type=3#buttonssosigninunity&apos;); height: 40px; width: 40px; margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px;" />
+        <ui:Label text="Name" display-tooltip-when-elided="true" name="Name" style="font-size: 18px; -unity-font-style: bold; -unity-text-align: upper-left;" />
+    </ui:VisualElement>
+</ui:UXML>
