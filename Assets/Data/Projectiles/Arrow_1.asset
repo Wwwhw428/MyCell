@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43cb98bb5fe7ff143a9d0cf461859e0c, type: 3}
+  m_Name: Arrow_1
+  m_EditorClassIdentifier: 
+  <ProjectilePrefab>k__BackingField: {fileID: 8186764712658631026, guid: 7251b08fbf27ed7419dc8fd9f6aef71b, type: 3}
+  <interactableLayers>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 8
+  <ComponentDatas>k__BackingField:
+  - rid: 1318255726694760451
+  - rid: 1318255726694760452
+  - rid: 1318255726694760453
+  - rid: 1318255726694760454
+  - rid: 1318255726694760455
+  - rid: 1318255726694760456
+  - rid: 1318255726694760457
+  - rid: 1318255726694760458
+  - rid: 1318255726694760459
+  - rid: 1318255726694760460
+  - rid: 1318255726694760461
+  references:
+    version: 2
+    RefIds:
+    - rid: 1318255726694760451
+      type: {class: ProjectileMovementData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: ProjectileMovementData
+        ApplyContinuously: 0
+        Velocity: 25
+    - rid: 1318255726694760452
+      type: {class: DelayedGravityData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: DelayedGravityData
+        Gravity: 4
+        DistanceDelay: 7
+        TimeDelay: -1
+    - rid: 1318255726694760453
+      type: {class: ProjectileGraphicsControllerData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: ProjectileGraphicsControllerData
+        projectileSprite: {fileID: 1557813892, guid: f90775480959d9e4c8eea9313877b2bc, type: 3}
+    - rid: 1318255726694760454
+      type: {class: RotateTowardsMovementData, ns: , asm: Assembly-CSharp}
+      data:
+        name: RotateTowardsMovementData
+    - rid: 1318255726694760455
+      type: {class: HitboxData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: HitboxData
+        Hitbox:
+          serializedVersion: 2
+          x: -1.1
+          y: -0.15625
+          width: 1.4
+          height: 0.3125
+        CompensateForVelocity: 1
+        LayerMask:
+          serializedVersion: 2
+          m_Bits: 8
+        DoInitialCheck: 1
+    - rid: 1318255726694760456
+      type: {class: StickInEnvironmentData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: StickInEnvironmentData
+        LayerMask:
+          serializedVersion: 2
+          m_Bits: 256
+    - rid: 1318255726694760457
+      type: {class: HitLineData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: HitLineData
+        LayerMask:
+          serializedVersion: 2
+          m_Bits: 256
+        DoInitialCheck: 1
+    - rid: 1318255726694760458
+      type: {class: ProjectileDamageData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: ProjectileDamageData
+        DamageAmount: 10
+        LayerMask:
+          serializedVersion: 2
+          m_Bits: 8
+    - rid: 1318255726694760459
+      type: {class: GravityDelayDrawModifierData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: GravityDelayDrawModifierData
+    - rid: 1318255726694760460
+      type: {class: DisableDamageOnStickData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: DisableDamageOnStickData
+    - rid: 1318255726694760461
+      type: {class: DespawnProjectileOnStickData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: DespawnProjectileOnStickData
+        <DespawnTime>k__BackingField: 5

@@ -1,0 +1,3180 @@
+fileFormatVersion: 2
+guid: 2314107655c7ee44eb5a523d32c3ad67
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HardLanding_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1163
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c06cad1350e9f40ac6f2da6338c750
+      internalID: 689508063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1163
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc5fa09f4c5f82418e06e31a987a29b
+      internalID: -983190826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1164
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284d3499e8a41fb43910ba8c65e70e06
+      internalID: -475752579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1164
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1d93eab82ad824bbd9e6fa0543e614
+      internalID: 1738130867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1164
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd3f79635404a24686e9de6ba325168
+      internalID: 537632991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1163
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7933cdebf85bb74b978c0d891061775
+      internalID: -2129507276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1163
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f9ed6cc7c26f24b99a92b4e6636367
+      internalID: -991359530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_7
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1162
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840424de98af5c74eade4f7a3780e238
+      internalID: 1083975764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_8
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1161
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adc93ced8f06ce4881bf1fd81d3673d
+      internalID: -1627971755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_9
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1159
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5118342336e6807418ab3045f5ce5133
+      internalID: 839393936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_10
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1158
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5b9f146e604da4bba3ec415d1bec3e
+      internalID: -1263103856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_11
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1157
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac74ffb07f677584fa131a3287b010bd
+      internalID: -2022031618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1055
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f72df183dad178458f1ae56d51e0564
+      internalID: 1609393646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1054
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe971704aa5054b478e218f3ceea87ae
+      internalID: -1020486874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1052
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec8b8103e8b2b343aaa4a151022ded3
+      internalID: 2008681778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_15
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1051
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822a44f8bbe8209409dce33450735477
+      internalID: 255059934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1049
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f15f83f01cb1042809870acfaec0fc
+      internalID: 472665056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_17
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1047
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767c4f2a4d7c4cb45a76fa95d0a11ed4
+      internalID: -1304374333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_18
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1044
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e404457d2b08a4f44b1e208fcb5b6550
+      internalID: -114951044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_19
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1042
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bbcc1d6f429c0439a5223a21e8af1f
+      internalID: -852305766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_20
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1040
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a795d7133f299924e88c1d3b8394c163
+      internalID: 394021983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_21
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1038
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aadbd7d57f5ec49a6e2c73c72be5a6
+      internalID: -1236877897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_22
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1035
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dfcf75c27ae3642bb5d4f4f571c736
+      internalID: 917803869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_23
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1033
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b750f9f842659854282fd95c4d682476
+      internalID: -2100926611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 930
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deee5162d0a34c744acc91e49fab8f12
+      internalID: -912681687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 928
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e7fe6ccb3936f4b94737410e342964
+      internalID: 280978396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 925
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed8c55b709a94f45a7fd96c59036b41
+      internalID: 1984792767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 923
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf285e85b84d134682f1588fe1d11b4
+      internalID: -1993572216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_28
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 920
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d829d76a8d21e408354f4213ab2d76
+      internalID: 1706787551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_29
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 918
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a78ba7ee4548a42910b8af89173cf2
+      internalID: 997060133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_30
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 917
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b3d1520deefc5428dd9c10abff47b2
+      internalID: -1227561185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_31
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 916
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d91ff80db602a4d923d3147e99a7d3
+      internalID: 1066754322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_32
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 916
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5747a2159d69b24f9d900728c8dfcea
+      internalID: -1780748879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_33
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 916
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531b23358630b02408556b945b27efe0
+      internalID: -959637516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_34
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 916
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d491f1030d2f1284584660ac39cfbe2f
+      internalID: 2144483443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_35
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 916
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aee99de7d322094a81a27008f2e629f
+      internalID: -1782930852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_36
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 816
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebecb59f3ab335948b1164fad5d46817
+      internalID: -1020952584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 816
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b60a2c76235be5498a116bc7c61c545
+      internalID: 1553571581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 816
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0fb31d0c3ba1d498fde3d7c17d99b0
+      internalID: 2121121690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_39
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 816
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a879449fa325ed409013d565e194697
+      internalID: 598535772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_40
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 816
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac79b620b7dfddd41a6f66ae37f126ec
+      internalID: 438239623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_41
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 816
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664a45101dba31043a47d101975fcdd6
+      internalID: 877601769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_42
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 816
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5706f35a1ddb66546a44d1d610d0c088
+      internalID: -480358705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_43
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 816
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f947074af5feb74aaa7fb19fe561d79
+      internalID: 1974782845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_44
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 816
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98ac53324fd4e8479084df307df2d0e
+      internalID: -423798153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_45
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 816
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995a3bd95782a9c4bb705ac3e6fd4f9a
+      internalID: -698322271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_46
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 816
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b00c5fd142c8a47a7b3f75d9c9db4a
+      internalID: -949005230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_47
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 816
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f07c26742c67644d88a5fa5f753c218
+      internalID: -147655776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 716
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bcefbca7233c847992569c92e214f8
+      internalID: -1109322355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 716
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c467b6aeec3064893e51f040c2c0c1
+      internalID: -1192547438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_50
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 716
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0a92767177f424caab90dcc44e845a
+      internalID: -14988605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_51
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 715
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7e6c8e26e4f224591297743de11605
+      internalID: 1812980584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_52
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 715
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34f2c2380b40064392d5c438aae34e2
+      internalID: 1842774149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_53
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 715
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0ee3662ca070b498a227e0772f2ad5
+      internalID: 1060699116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_54
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 715
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52386b17104be064695b7e6774c75b50
+      internalID: -966638663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_55
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 715
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ddc4fcc44819f40ac977f7ba3cb472
+      internalID: -2135525831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_56
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 715
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3fc6d7dac0ba14580967a89e2d4107
+      internalID: -1266699307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_57
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 716
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b9b44e71a54524987d712854169149
+      internalID: -192690137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_58
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 716
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95c71bc02ea1bc40af31ea4b08d348f
+      internalID: -428508675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_59
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 716
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d580a4a1898092146922e411c0bc3695
+      internalID: 932487539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_60
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 616
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec323d8b5382f9542a7ab9ab4af1f3f4
+      internalID: 1237328549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_61
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 616
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403b89803ff7ebf42a19f624a5f94f21
+      internalID: -233597889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_62
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 616
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145ea3ac605ebc74e9e82fa052f3da43
+      internalID: -523157832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_63
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 616
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c22aab0e0e4f6b4d9d36b83c247a003
+      internalID: -1103078449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_64
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 616
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2076399b283e4e8478db46ee6688d9ca
+      internalID: -566415659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_65
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 616
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5951618e82f443b4cbed8c433fa5efff
+      internalID: -226397322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_66
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 616
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd8a1106390e9247b804bf3814826e1
+      internalID: -1029792122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_67
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 616
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ad192497b3d494593545be1722bc04
+      internalID: 1985361192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_68
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 616
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cd4b88c6dd791488e8d5188ff9f34b
+      internalID: -993151223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_69
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 616
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa7193521017e245afe8d2261a49af6
+      internalID: -1578488296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_70
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 616
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d1da2dc24ef664b8f794cd34158d70
+      internalID: 19432916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_71
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 616
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df095f5d417807942a6e80f2ccedd94e
+      internalID: -1737447421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 516
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ebbc25f90cded45b5793dd500f36fe
+      internalID: 1892935246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_73
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 516
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a1b657e2e75674faf163152ba3f0d1
+      internalID: -574212455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 516
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da5badb1dca954889fe17a14ec893b
+      internalID: 904936335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_75
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 516
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a5124b0beaae743bc1913ebe71db01
+      internalID: -74518423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_76
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 516
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf57dcf561f4f3438cb037e13e11a48
+      internalID: -798829016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_77
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 516
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49547cf614e38fe48b359e0183ad26f0
+      internalID: 821186653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 516
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067c5bbd121205140bfba663b099d9b8
+      internalID: -568010926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_79
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 516
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560478e6993871e4a88459c54b608f86
+      internalID: -1844548962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_80
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 516
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4803132e26aa8b54488c3586d51a283e
+      internalID: 896997839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_81
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 516
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6274ee17c564840960bf0f829f505f
+      internalID: -1347069460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_82
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 516
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7ff72350cfaf244858d19db8436e89
+      internalID: 1407995583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_83
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 516
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c1eacb70f9a4a4ea8ed34640184452
+      internalID: 1075758639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_84
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 416
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eae10977cc405245a67c4a3ca3bf425
+      internalID: -201874513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_85
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 416
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d77b5dbf92e24e43b8413a36b582b67
+      internalID: -1356140578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_86
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 416
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237c89c685031664eb3286935f72bad1
+      internalID: 1419805425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_87
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 416
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a530183232fe846b09fe23145a0401
+      internalID: -76816796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_88
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 416
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6bf3d8fa10b3241a794108df6ebd07
+      internalID: 235154439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_89
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 416
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f534911de4394f84b9e0bd2ddca62f4c
+      internalID: -1023594441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_90
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 416
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf620e5b15f9e174f801f5fff0c4fb64
+      internalID: -325776527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_91
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 416
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc8df84087a14b4abff15dd09931ea5
+      internalID: -83753769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_92
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 416
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139fbb17dc7d7ba42ac144bfbfa5331b
+      internalID: -956362671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_93
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 416
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baea0ac0d87382e46b679915eda5f84b
+      internalID: 1433653442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_94
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 416
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1403b8b820b8024d8cfb014587695e2
+      internalID: -1082541158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_95
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 416
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed4df25f76c529469f5de6b415ca965
+      internalID: -1097172179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_96
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 316
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319443e40b2a7a0479507daf864921d2
+      internalID: -1441993740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_97
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 316
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c296142725d5ddd4d86ddcdfc4fb39b0
+      internalID: 135261843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_98
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 316
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dcc4d569373dc4aa5671d3d072ce7d
+      internalID: 2097214634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_99
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 316
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9725c6c55ab7141a8c960fd59d8cb7
+      internalID: 787785268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_100
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 316
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af986180e580dd4294e36ec3409d910
+      internalID: -983772988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_101
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 316
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6ca491b0bd23344928dd4233052ffa
+      internalID: -1041956393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_102
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 316
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5288032db50db54ba59d1b464c7f5a5
+      internalID: -45599506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_103
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 316
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6960641659e739542a19a98caa111cc9
+      internalID: 236062179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_104
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 316
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763a4d6e0ef0439498437194c839d0c4
+      internalID: -157231854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_105
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 316
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc9dd1753b0125478a6f836398cc749
+      internalID: 248697023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_106
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 316
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f86ea3355f8384991dacf4ddf46043
+      internalID: 1543592874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_107
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 315
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a566ccb78146b754880a53b4ed18bb63
+      internalID: 1734162652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_108
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 216
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f777a214d3d6567449dc5fcbbed62345
+      internalID: -694521967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_109
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 216
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda6a9297ca6c7f4e812dacc854a15ee
+      internalID: -1554061424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_110
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 215
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71185ec0c663e44da54fa1c5def5f55
+      internalID: -1439498841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_111
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 216
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2fdf9450eaaec4282a91daaf36ff7c
+      internalID: -330913807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_112
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 216
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255d7c10c85599f49be3e2962e923241
+      internalID: -305024887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_113
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 216
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e5361ec62d72b4f933596594c40778
+      internalID: 302480305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_114
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 216
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadc3f032c4aa0d40a66ea624bb92425
+      internalID: -672886028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_115
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 216
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d0c5db4990dbe47a682c74fe79b7ac
+      internalID: 1297321531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_116
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 216
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce701800dc58b6a4e988e6620df04ee6
+      internalID: 1874209367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_117
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 216
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c31435d2566074ba0cbc50eddd3fbc
+      internalID: 1956731009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_118
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 216
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9a19e767cef0b47a58bdc3ddacb0c1
+      internalID: -1970215529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_119
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 216
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873b4dfd7fb57684da5c8af9238944d1
+      internalID: 1528662660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_120
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 116
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8360e1e9ba2259409a19279ba1135e2
+      internalID: -1163042922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_121
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 116
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d2e8fbdb8407046979fff1d2d80d83
+      internalID: 1369817166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_122
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 116
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a37548d6915454f9c92d6b68314369
+      internalID: 1932938155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_123
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 116
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34becd956c106de4c8b81a08727cb823
+      internalID: -552579702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_124
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 116
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd515ae010d8a14aae03a727e07675f
+      internalID: -307475410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_125
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 116
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5902b609f3da540a9d9ee0a7374bbc
+      internalID: 2103208235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_126
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 116
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665369d00dbc95d4fa32d8ffe6d8d1f0
+      internalID: 1171257947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_127
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 116
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f63e65e271f6a6429f6bc716cfa915f
+      internalID: -931496956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_128
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 116
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a5c66da495d84498b0c7e0d6082877
+      internalID: -1672057391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_129
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 116
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d8652d832e89e46a075a0dc3546a4d
+      internalID: 1606396310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_130
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 116
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a75a0ea6e39f64b84970f371b29f62
+      internalID: 1280137297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_131
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 116
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57814ea529040244b8563ea036e75198
+      internalID: 598690687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_132
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 16
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb53702976fc1f4f85e9ca3c6f4290e
+      internalID: -2049054078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_133
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 16
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57535d933d08ba439a6399ad4e52138
+      internalID: -958586953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_134
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 16
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ce7a91ad819164fb767a9cd615ec0a
+      internalID: 1367826039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_135
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 16
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca772bef2328d648935248ba90ba834
+      internalID: 1027193834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_136
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 16
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6316155f5dc68664392b7fdef4564432
+      internalID: -314273277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_137
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 16
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605c356efd5a4fe49984514688c2742f
+      internalID: 917558524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardLanding_138
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 30
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b0472a1a36a7b448b0613c3db45af6
+      internalID: 1361702417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HardLanding_17: -1304374333
+      HardLanding_11: -2022031618
+      HardLanding_35: -1782930852
+      HardLanding_121: 1369817166
+      HardLanding_67: 1985361192
+      HardLanding_69: -1578488296
+      HardLanding_22: 917803869
+      HardLanding_16: 472665056
+      HardLanding_77: 821186653
+      HardLanding_122: 1932938155
+      HardLanding_107: 1734162652
+      HardLanding_34: 2144483443
+      HardLanding_127: -931496956
+      HardLanding_59: 932487539
+      HardLanding_110: -1439498841
+      HardLanding_133: -958586953
+      HardLanding_72: 1892935246
+      HardLanding_106: 1543592874
+      HardLanding_71: -1737447421
+      HardLanding_14: 2008681778
+      HardLanding_115: 1297321531
+      HardLanding_86: 1419805425
+      HardLanding_39: 598535772
+      HardLanding_27: -1993572216
+      HardLanding_58: -428508675
+      HardLanding_130: 1280137297
+      HardLanding_85: -1356140578
+      HardLanding_102: -45599506
+      HardLanding_138: 1361702417
+      HardLanding_119: 1528662660
+      HardLanding_57: -192690137
+      HardLanding_125: 2103208235
+      HardLanding_62: -523157832
+      HardLanding_97: 135261843
+      HardLanding_43: 1974782845
+      HardLanding_46: -949005230
+      HardLanding_91: -83753769
+      HardLanding_99: 787785268
+      HardLanding_104: -157231854
+      HardLanding_40: 438239623
+      HardLanding_68: -993151223
+      HardLanding_10: -1263103856
+      HardLanding_32: -1780748879
+      HardLanding_8: -1627971755
+      HardLanding_61: -233597889
+      HardLanding_80: 896997839
+      HardLanding_103: 236062179
+      HardLanding_5: -2129507276
+      HardLanding_83: 1075758639
+      HardLanding_2: -475752579
+      HardLanding_3: 1738130867
+      HardLanding_66: -1029792122
+      HardLanding_44: -423798153
+      HardLanding_52: 1842774149
+      HardLanding_74: 904936335
+      HardLanding_132: -2049054078
+      HardLanding_105: 248697023
+      HardLanding_87: -76816796
+      HardLanding_12: 1609393646
+      HardLanding_76: -798829016
+      HardLanding_38: 2121121690
+      HardLanding_100: -983772988
+      HardLanding_135: 1027193834
+      HardLanding_124: -307475410
+      HardLanding_109: -1554061424
+      HardLanding_75: -74518423
+      HardLanding_117: 1956731009
+      HardLanding_42: -480358705
+      HardLanding_6: -991359530
+      HardLanding_79: -1844548962
+      HardLanding_19: -852305766
+      HardLanding_51: 1812980584
+      HardLanding_101: -1041956393
+      HardLanding_81: -1347069460
+      HardLanding_45: -698322271
+      HardLanding_18: -114951044
+      HardLanding_21: -1236877897
+      HardLanding_25: 280978396
+      HardLanding_55: -2135525831
+      HardLanding_82: 1407995583
+      HardLanding_0: 689508063
+      HardLanding_113: 302480305
+      HardLanding_9: 839393936
+      HardLanding_60: 1237328549
+      HardLanding_120: -1163042922
+      HardLanding_70: 19432916
+      HardLanding_65: -226397322
+      HardLanding_54: -966638663
+      HardLanding_90: -325776527
+      HardLanding_49: -1192547438
+      HardLanding_4: 537632991
+      HardLanding_20: 394021983
+      HardLanding_48: -1109322355
+      HardLanding_24: -912681687
+      HardLanding_63: -1103078449
+      HardLanding_128: -1672057391
+      HardLanding_31: 1066754322
+      HardLanding_47: -147655776
+      HardLanding_108: -694521967
+      HardLanding_93: 1433653442
+      HardLanding_137: 917558524
+      HardLanding_29: 997060133
+      HardLanding_13: -1020486874
+      HardLanding_126: 1171257947
+      HardLanding_131: 598690687
+      HardLanding_41: 877601769
+      HardLanding_37: 1553571581
+      HardLanding_78: -568010926
+      HardLanding_56: -1266699307
+      HardLanding_95: -1097172179
+      HardLanding_94: -1082541158
+      HardLanding_98: 2097214634
+      HardLanding_30: -1227561185
+      HardLanding_33: -959637516
+      HardLanding_36: -1020952584
+      HardLanding_129: 1606396310
+      HardLanding_50: -14988605
+      HardLanding_23: -2100926611
+      HardLanding_53: 1060699116
+      HardLanding_88: 235154439
+      HardLanding_96: -1441993740
+      HardLanding_136: -314273277
+      HardLanding_116: 1874209367
+      HardLanding_123: -552579702
+      HardLanding_84: -201874513
+      HardLanding_73: -574212455
+      HardLanding_111: -330913807
+      HardLanding_134: 1367826039
+      HardLanding_118: -1970215529
+      HardLanding_7: 1083975764
+      HardLanding_15: 255059934
+      HardLanding_112: -305024887
+      HardLanding_28: 1706787551
+      HardLanding_1: -983190826
+      HardLanding_64: -566415659
+      HardLanding_114: -672886028
+      HardLanding_89: -1023594441
+      HardLanding_92: -956362671
+      HardLanding_26: 1984792767
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -12,8 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1af4245bb4299a2458386884d589a7ca, type: 3}
   m_Name: Enemy_2_SO
   m_EditorClassIdentifier: 
-  MovementVelocity: 1
+  MovementVelocity: 10
   GroundCheckRadius: 0.3
   WhatIsGround:
     serializedVersion: 2
     m_Bits: 128
+  PlayerCheckMinRange: 0
+  PlayerCheckMaxRange: 0
+  WhatIsPlayer:
+    serializedVersion: 2
+    m_Bits: 64

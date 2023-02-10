@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 1527321940}
   - component: {fileID: 237741760190902988}
   - component: {fileID: 7283507948662865630}
-  - component: {fileID: 1527321943}
+  - component: {fileID: 2652835902784166011}
   m_Layer: 6
   m_Name: Base
   m_TagString: Untagged
@@ -190,7 +190,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1527321943
+--- !u!114 &2652835902784166011
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -199,7 +199,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1527321939}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc608042c78345848bdee451fdaedd68, type: 3}
+  m_Script: {fileID: 11500000, guid: 843e2d2164c441a4181bf4255108615d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &9180751693125739489
@@ -211,8 +211,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5298430817858535709}
-  - component: {fileID: 5417722266341669018}
-  - component: {fileID: 5417722266341669017}
+  - component: {fileID: 1463818486557882872}
   m_Layer: 6
   m_Name: Weapon
   m_TagString: Untagged
@@ -237,7 +236,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5417722266341669018
+--- !u!114 &1463818486557882872
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -246,20 +245,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 9180751693125739489}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff1ea5f65652437c9a370c4bf2f878b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 2eb1a6a03da148c7b8b146b30b54e0a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _weaponAttackCount: 3
-  _weaponAttackCoolDown: 3
---- !u!114 &5417722266341669017
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9180751693125739489}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cc13ea54af1b5a640b4a5335c6b02023, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  BaseGo: {fileID: 0}
+  WeaponSpriteGo: {fileID: 0}
+  BaseAnim: {fileID: 0}
+  core: {fileID: 0}
+  _weaponData: {fileID: 11400000, guid: 65412089c715ef546971825fb48ff43a, type: 2}

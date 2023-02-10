@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26c212fbdc924bf29b52fa2befe2f365, type: 3}
+  m_Name: Bow_1
+  m_EditorClassIdentifier: 
+  WeaponName: Base Bow
+  WeaponDescription: A basic wooden bow that fires a generic arrow
+  PickupSprite: {fileID: 1841295544, guid: 8b7c381db5e1d7e4a8aa9433928a6a9f, type: 3}
+  NumberOfAttack: 1
+  AnimatorController: {fileID: 9100000, guid: a74402687dfc4944d8f92876a54519ba, type: 2}
+  componentData:
+  - rid: 1318255726694760449
+  - rid: 1318255726694760450
+  - rid: 1318255726694760462
+  - rid: 1318255726694760463
+  references:
+    version: 2
+    RefIds:
+    - rid: 1318255726694760449
+      type: {class: WeaponSpriteData, ns: MyCell.Weapon.Component, asm: Assembly-CSharp}
+      data:
+        <ComponentName>k__BackingField: WeaponSpriteData
+        data:
+        - name: 
+          attackPhases:
+          - name: Point
+            phase: 0
+            sprites:
+            - {fileID: 1027853266, guid: a7249f903ce867a479c691a0032c313a, type: 3}
+            - {fileID: 72907622, guid: a7249f903ce867a479c691a0032c313a, type: 3}
+          - name: Hold
+            phase: 1
+            sprites:
+            - {fileID: 72907622, guid: a7249f903ce867a479c691a0032c313a, type: 3}
+          - name: Action
+            phase: 3
+            sprites:
+            - {fileID: 1572229941, guid: a7249f903ce867a479c691a0032c313a, type: 3}
+            - {fileID: 1007260431, guid: a7249f903ce867a479c691a0032c313a, type: 3}
+            - {fileID: 1819280920, guid: a7249f903ce867a479c691a0032c313a, type: 3}
+            - {fileID: 645079138, guid: a7249f903ce867a479c691a0032c313a, type: 3}
+    - rid: 1318255726694760450
+      type: {class: AttackRangedData, ns: MyCell.Weapon.Component, asm: Assembly-CSharp}
+      data:
+        <ComponentName>k__BackingField: AttackRangedData
+        data:
+        - AttackName: 
+          debug: 0
+          AttackData:
+          - offset: {x: 0.92, y: 0.2}
+            direction: {x: 1, y: 0}
+            projectileData: {fileID: 11400000, guid: bd6636bba1f23994085d5ff4b9331004, type: 2}
+    - rid: 1318255726694760462
+      type: {class: OptionalAttachmentPointData, ns: MyCell.Weapon.Component, asm: Assembly-CSharp}
+      data:
+        <ComponentName>k__BackingField: OptionalAttachmentPointData
+        data:
+        - AttackName: 
+          Sprite: {fileID: 1557813892, guid: f90775480959d9e4c8eea9313877b2bc, type: 3}
+          UseSprite: 1
+    - rid: 1318255726694760463
+      type: {class: WeaponDrawData, ns: MyCell.Weapon.Component, asm: Assembly-CSharp}
+      data:
+        <ComponentName>k__BackingField: WeaponDrawData
+        data:
+        - Name: 
+          curve:
+            serializedVersion: 2
+            m_Curve:
+            - serializedVersion: 3
+              time: 0
+              value: 0
+              inSlope: 0
+              outSlope: 0
+              tangentMode: 0
+              weightedMode: 0
+              inWeight: 0
+              outWeight: 0
+            - serializedVersion: 3
+              time: 1
+              value: 1
+              inSlope: 2
+              outSlope: 2
+              tangentMode: 0
+              weightedMode: 0
+              inWeight: 0
+              outWeight: 0
+            m_PreInfinity: 2
+            m_PostInfinity: 2
+            m_RotationOrder: 0
+          drawTime: 0.2666667
