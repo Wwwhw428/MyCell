@@ -27,12 +27,9 @@ namespace MyCell.Weapon.Component
         public override void Init()
         {
             base.Init();
-
             _baseSpriteRenderer = weapon.BaseGo.GetComponent<SpriteRenderer>();
             _WeaponSpriteRenderer = weapon.WeaponSpriteGo.GetComponent<SpriteRenderer>();
-
             _baseSpriteRenderer.RegisterSpriteChangeCallback(SpriteChangeHandler);
-
         }
 
         #region Unity Callback
@@ -40,6 +37,7 @@ namespace MyCell.Weapon.Component
         protected override void OnEnable()
         {
             base.OnEnable();
+            _baseSpriteRenderer.RegisterSpriteChangeCallback(SpriteChangeHandler);
             weapon.AnimationHandler.OnAttackPhaseChanged += SetPhase;
         }
 

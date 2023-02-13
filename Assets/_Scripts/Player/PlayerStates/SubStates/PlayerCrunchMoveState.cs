@@ -21,6 +21,10 @@ public class PlayerCrunchMoveState : PlayerGroundStates
         base.LogicUpdate();
         if (inputX == 0)
             StateMachine.ChangeState(Player.CrunchIdleState);
+        else if (jumpInput)
+        {
+            Player.InputHandler.UseJumpInput();
+        }
         else if (inputY > -0.01f && !isTouchingCeiling)
         {
             StateMachine.ChangeState(Player.MoveState);

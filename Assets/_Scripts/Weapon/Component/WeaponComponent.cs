@@ -3,7 +3,6 @@ using MyCell.Weapon.Component.Data;
 
 namespace MyCell.Weapon.Component
 {
-    // TODO: 还没加上 CoolDown
     public class WeaponComponent : MonoBehaviour
     {
         protected Weapon weapon;

@@ -16,6 +16,7 @@ namespace MyCell.SO.Weapon
         public string WeaponDescription;
         public Sprite PickupSprite;
         public int NumberOfAttack;
+        public float CoolingTime;
         public RuntimeAnimatorController AnimatorController;
 
         [SerializeReference]

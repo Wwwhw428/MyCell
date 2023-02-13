@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43cb98bb5fe7ff143a9d0cf461859e0c, type: 3}
+  m_Name: Arrow_2
+  m_EditorClassIdentifier: 
+  <ProjectilePrefab>k__BackingField: {fileID: 8186764712658631026, guid: 7251b08fbf27ed7419dc8fd9f6aef71b, type: 3}
+  <interactableLayers>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 8
+  <ComponentDatas>k__BackingField:
+  - rid: 7757016306644418582
+  - rid: 7757016306644418583
+  - rid: 7757016306644418584
+  - rid: 7757016306644418585
+  - rid: 7757016306644418586
+  - rid: 7757016306644418587
+  - rid: 7757016306644418588
+  - rid: 7757016306644418589
+  - rid: 7757016306644418590
+  references:
+    version: 2
+    RefIds:
+    - rid: 7757016306644418582
+      type: {class: ProjectileMovementData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: ProjectileMovementData
+        ApplyContinuously: 0
+        Velocity: 25
+    - rid: 7757016306644418583
+      type: {class: DelayedGravityData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: DelayedGravityData
+        Gravity: 4
+        DistanceDelay: 7
+        TimeDelay: -1
+    - rid: 7757016306644418584
+      type: {class: ProjectileGraphicsControllerData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: ProjectileGraphicsControllerData
+        projectileSprite: {fileID: -992283890, guid: f90775480959d9e4c8eea9313877b2bc, type: 3}
+    - rid: 7757016306644418585
+      type: {class: RotateTowardsMovementData, ns: , asm: Assembly-CSharp}
+      data:
+        name: RotateTowardsMovementData
+    - rid: 7757016306644418586
+      type: {class: GravityDelayDrawModifierData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: GravityDelayDrawModifierData
+    - rid: 7757016306644418587
+      type: {class: HitboxData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: HitboxData
+        Hitbox:
+          serializedVersion: 2
+          x: -1
+          y: -0.225
+          width: 1.37
+          height: 0.45
+        CompensateForVelocity: 1
+        LayerMask:
+          serializedVersion: 2
+          m_Bits: 8
+        DoInitialCheck: 1
+    - rid: 7757016306644418588
+      type: {class: HitLineData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: HitLineData
+        LayerMask:
+          serializedVersion: 2
+          m_Bits: 256
+        DoInitialCheck: 1
+    - rid: 7757016306644418589
+      type: {class: StickInEnvironmentData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: StickInEnvironmentData
+        LayerMask:
+          serializedVersion: 2
+          m_Bits: 256
+    - rid: 7757016306644418590
+      type: {class: ProjectileDamageData, ns: MyCell.Projectiles, asm: Assembly-CSharp}
+      data:
+        name: ProjectileDamageData
+        DamageAmount: 15
+        LayerMask:
+          serializedVersion: 2
+          m_Bits: 8

@@ -1,0 +1,2564 @@
+fileFormatVersion: 2
+guid: c6363e010a986524b92177d0187f5cbf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClimbingWall_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1026
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1f2ccf0c870944692471df049c18d0
+      internalID: 151468395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1025
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a55bb68da51034a95626a2f22ae6d4
+      internalID: -1392159712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1025
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f0461060a432442b22154a609454c2
+      internalID: 1515941752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1026
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0759c8b3f41b0ed4ca7dffb88ced8a84
+      internalID: -1239367653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_4
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1026
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c6dac4804991b42aa3b44088de6ab3
+      internalID: 595878640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1026
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822957eefe91d604196fb2e5eff49341
+      internalID: 1999820636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1026
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d325cc3effdb9c444b62f1b484a7e32c
+      internalID: 26163610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_7
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1026
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a998bbef459b5c4a989374f1afde983
+      internalID: 932034923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_8
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1025
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1570df1a0c7e1db4a815c32bf027168d
+      internalID: -1788539496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_9
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1025
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e039347dbb9904a9adc5eb5a496c22
+      internalID: -2057254842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_10
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1026
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98dc83e303894f46b4586bf07064bb6
+      internalID: -109910433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 926
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6904bc19df980d4db3cd19dd0ec1573
+      internalID: -1338626108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 927
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411f5ca2992676a4c9eafe6162b92205
+      internalID: -2098776825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 928
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7529a8257e5218a4887e281abcdc3cfa
+      internalID: 643964623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 929
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a1e85f9d90c740a641af75435b841
+      internalID: -1563025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 930
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a79d3b9f2a690d48a240b33b5616f34
+      internalID: 1905190685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_16
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 932
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9b846fc39f5e64da9c46b9d41ea3a7
+      internalID: -1894840434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_17
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 933
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28f280803475724a930d9372fdc3843
+      internalID: 86615362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_18
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 935
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e761b1dec0100ae4a80d5d5c4e580e8e
+      internalID: -610882004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_19
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 935
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4b984e35561f040b396df4fc47dccc
+      internalID: 992325891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_20
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 935
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a033d4d1e068b99458bd39ea59eb0a27
+      internalID: -430892592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_21
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 935
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cc871d694173b43abffd9e4b197792
+      internalID: 864017460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 835
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f2fb752ba718f4eb0bdb5870814a66
+      internalID: -390269339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 835
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130090426b8019f4594ef096a31a4bec
+      internalID: 624174120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 834
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ee16e24335f064190f762d851e8d11
+      internalID: -1277227142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_25
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 834
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318ce378831a38047b64ad5b683809d9
+      internalID: 1082293026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_26
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 834
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959bfc67e61186f4799f04b01c265046
+      internalID: 696477401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_27
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 834
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7e19d60cbd5b849824b243aa13d7e6
+      internalID: -275673548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_28
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 834
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d24c396d66a144cb8c662742938c5d
+      internalID: -590156806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_29
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 833
+        width: 19
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babd812df40160a418656bce9bec8382
+      internalID: 537839316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_30
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 833
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ce3ead90de62646abf9abafc68fcc5
+      internalID: -940252459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_31
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 833
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5c7e178e1dd40459fe3a37f9c3b007
+      internalID: -532496510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_32
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 833
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f27aea82053c1045a29909582332cbd
+      internalID: -1800565301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 732
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47bc1addb26efe4598e949f7b5eb2bd
+      internalID: 1670170912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 732
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ca80a7c9759f34e843f4175448a698
+      internalID: 1750062619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_35
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 731
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2de7f8e1d405c42b8357d43a823af0
+      internalID: 1469785062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 731
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457dfb98deb10854d86a2f213ffce3f6
+      internalID: -1938855349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_37
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 731
+        width: 19
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66044ca5911710d429e0700d9b649e74
+      internalID: -1382758340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_38
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 731
+        width: 19
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a731724215e7943be71570b61b6fce
+      internalID: 1373654403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_39
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 730
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c5af68b9f190f4f90564e70bd6177d
+      internalID: -94792971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_40
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 730
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17751667e92d6364d93d27d573d926cd
+      internalID: -2047636571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_41
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 730
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7443eb58a44b09f41a7781528f7b20b3
+      internalID: -1824194828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_42
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 730
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f9f214dc9c4cf4d9d43954e00bc8a6
+      internalID: -1947542205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_43
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 729
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a77b7fa181f78c4aa93a4097837bf17
+      internalID: -1153161516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_44
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 629
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398963a83c21d50409dff893b03ac48c
+      internalID: 405506991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_45
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 629
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee731128af204c4abe75456cacb7de4
+      internalID: 811566482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_46
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 628
+        width: 17
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9612ce7b4a0ef3e499ec64067554d73b
+      internalID: 882896643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_47
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 628
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb86daca98b131b478a075c6851a662f
+      internalID: -284257460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_48
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 628
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edf2b6d992f9c446a60f9b23c5dc080
+      internalID: 1000685103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_49
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 628
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ac22689b4ed124aab332d2e930f2f0
+      internalID: 822530040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_50
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 628
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7fdd9ba7b42d34d8f71d7ee3004be1
+      internalID: -569095646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_51
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 627
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc22abf3a16784345866554d7964eb00
+      internalID: -357548329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_52
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 627
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31116c3a4c7cdca4391c99c79340ae36
+      internalID: 38972685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_53
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 627
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee007f1131745241a91c159b6f7ac60
+      internalID: -1825611814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_54
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 627
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465d71a9d80d1a24a8058f67ff02178b
+      internalID: -1552058628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_55
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 526
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c35586016e8754b8b9745ecd92bf71
+      internalID: 901918591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 526
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a8348d009b4c04ea84fcfa52cc7978
+      internalID: -387025949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_57
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 526
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9c1873d4ef0f048b0d29658ffb038d
+      internalID: -309793836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_58
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 526
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3c741a14bf3124b9f14882e447ee53
+      internalID: 722629628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_59
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 526
+        width: 17
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2916b97851757d246ab909332eea2d13
+      internalID: 1034457139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_60
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 526
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adea1bd59e0bde44caa5f81b32f0bc7c
+      internalID: -2026204716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_61
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 526
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08579cb176b0ad64081bc26528473fb5
+      internalID: -20317059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_62
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 526
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5bebbcefb43694dbbce9885123f80c
+      internalID: 514642667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_63
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 526
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347bdc40cebd0f74bb98a5e4d0633a1f
+      internalID: -707752919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_64
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 526
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403c7a97b9ef433439f3bc4bb14212d8
+      internalID: -1832125141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_65
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 526
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5089f4c19f1e44181b64c362821743
+      internalID: 729703282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_66
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 427
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fbcf8b539b4894cb45e1408fb934a6
+      internalID: 556606465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_67
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 427
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9d045c9a0b287478094e458b9a9eb9
+      internalID: 584728917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_68
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 427
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a445b2d57cf3474a8907c6c5930eb5a
+      internalID: -1317171943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_69
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 427
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bc595ddc082c4468a4f8eb2c90fd80
+      internalID: 2097267476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_70
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 427
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e011aee29775b3e42ae6fa625e9893b2
+      internalID: -1319707576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_71
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 428
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9d2669a85bea0409878196ceb8ec18
+      internalID: 370184653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_72
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 428
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adaa35d9212be14ea163a687acb6366
+      internalID: 341095424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_73
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 428
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c3f464ac4054448a167dbfd7e11d45
+      internalID: 390497244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_74
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 429
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e559de68266e7b64f94ae1e95921c981
+      internalID: 2058357338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_75
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 429
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301f1b683328e344b849f4f0a06d0a09
+      internalID: 1387747657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_76
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 430
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0097ad7f6e2a9f44eba56e19e4fd31d5
+      internalID: 1693017758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_77
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 330
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e23ea78cc2e2d43967db67daea2813
+      internalID: -175001544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_78
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 331
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aef421ea8c1c044860fd0070a1e213
+      internalID: -909866206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_79
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 333
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7113e05e3cf11a24880eef134c2ec823
+      internalID: -1827688700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_80
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 334
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b686447b7f7fbf0489b592950772c814
+      internalID: 1669075792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_81
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 334
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d57ab5e975f934d8a37f4cbe932da1
+      internalID: -51069865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_82
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 334
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ec7a7242fc0014d9a025386f599961
+      internalID: 887460583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_83
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 334
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4d455d2de1dfb45a87ec07d758eafa
+      internalID: 1284637836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_84
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 333
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d7928954a2bb6418bc22f2b7f3767a
+      internalID: 1382567918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_85
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 333
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efa72504d3c8bd4c9c1daaafe89f298
+      internalID: 2142660909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_86
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 333
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac05be978abd57469f12d43019e747b
+      internalID: 775713747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_87
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 333
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a940d264c1480a645a710b8b578cdcdb
+      internalID: 1660318018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_88
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 232
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f64179dd70a2ea489b3330d86770d9e
+      internalID: -2068971307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_89
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 232
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4caaab5937bb748a1f450de8e7b2ae
+      internalID: -355518763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_90
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 232
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84b4e6212744754284ea3aad6917918
+      internalID: -2109849073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_91
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 231
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72156d99768fc342975655c2a822d24
+      internalID: -307914072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_92
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 231
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dc9b4c49b92124297c5a06d1600544
+      internalID: -278160869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_93
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 231
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bee98c6fc5149f489b1fdd12093739f
+      internalID: 654208702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_94
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 231
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55b0bd0e04d23e429c4ec7ca391db8c
+      internalID: 2118708146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_95
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 230
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a385736144fcd74a9c816764153c966
+      internalID: -148929990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_96
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 230
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc7735dc2ee6694cb9dbe9c1c14157e
+      internalID: 973005352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_97
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 230
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02e77d9ea17952488ff9117db593108
+      internalID: -1377526361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_98
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 229
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f1f3a1cd9bd244b9d80e29edae97dd
+      internalID: 234954714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_99
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 129
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff2e17a30a148047a5e968674312641
+      internalID: -204458290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_100
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 129
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24828f798bc0404bb1bf7a1353d189b
+      internalID: 1009692290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_101
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 128
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4758bab65f2f9bf47b225d5f1b406ed4
+      internalID: 471476307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_102
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 128
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb79524e645251042a5e4427723b05aa
+      internalID: 1063882237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_103
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 128
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe02c9cd9f8743449eb86d8a12c4e2d
+      internalID: -622407699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_104
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 127
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76befff7a9952ae43add5abe96f41d3b
+      internalID: -512619425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_105
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 127
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5311fd3456662d418268f7666aae357
+      internalID: 235302307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_106
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 127
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b53b6e375f6c02409cd13c139a819c1
+      internalID: -1283337348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_107
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 126
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd223a7d912a4d14c9762faec0c9d7a6
+      internalID: 392714368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_108
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 126
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54790b08b1d70c349a381978e55a8201
+      internalID: -1658114975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_109
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 126
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd826786cebf67d4886852013d6a6a99
+      internalID: -731993428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbingWall_110
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 25
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c630dbc065366584c9473cd4982e6839
+      internalID: -938774993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ClimbingWall_42: -1947542205
+      ClimbingWall_62: 514642667
+      ClimbingWall_85: 2142660909
+      ClimbingWall_84: 1382567918
+      ClimbingWall_106: -1283337348
+      ClimbingWall_32: -1800565301
+      ClimbingWall_61: -20317059
+      ClimbingWall_102: 1063882237
+      ClimbingWall_72: 341095424
+      ClimbingWall_108: -1658114975
+      ClimbingWall_63: -707752919
+      ClimbingWall_41: -1824194828
+      ClimbingWall_40: -2047636571
+      ClimbingWall_59: 1034457139
+      ClimbingWall_25: 1082293026
+      ClimbingWall_1: -1392159712
+      ClimbingWall_56: -387025949
+      ClimbingWall_103: -622407699
+      ClimbingWall_89: -355518763
+      ClimbingWall_50: -569095646
+      ClimbingWall_86: 775713747
+      ClimbingWall_20: -430892592
+      ClimbingWall_78: -909866206
+      ClimbingWall_44: 405506991
+      ClimbingWall_0: 151468395
+      ClimbingWall_90: -2109849073
+      ClimbingWall_110: -938774993
+      ClimbingWall_99: -204458290
+      ClimbingWall_95: -148929990
+      ClimbingWall_94: 2118708146
+      ClimbingWall_100: 1009692290
+      ClimbingWall_104: -512619425
+      ClimbingWall_15: 1905190685
+      ClimbingWall_14: -1563025
+      ClimbingWall_105: 235302307
+      ClimbingWall_53: -1825611814
+      ClimbingWall_16: -1894840434
+      ClimbingWall_22: -390269339
+      ClimbingWall_64: -1832125141
+      ClimbingWall_48: 1000685103
+      ClimbingWall_10: -109910433
+      ClimbingWall_45: 811566482
+      ClimbingWall_30: -940252459
+      ClimbingWall_58: 722629628
+      ClimbingWall_35: 1469785062
+      ClimbingWall_47: -284257460
+      ClimbingWall_8: -1788539496
+      ClimbingWall_36: -1938855349
+      ClimbingWall_60: -2026204716
+      ClimbingWall_68: -1317171943
+      ClimbingWall_70: -1319707576
+      ClimbingWall_57: -309793836
+      ClimbingWall_3: -1239367653
+      ClimbingWall_87: 1660318018
+      ClimbingWall_66: 556606465
+      ClimbingWall_27: -275673548
+      ClimbingWall_73: 390497244
+      ClimbingWall_51: -357548329
+      ClimbingWall_109: -731993428
+      ClimbingWall_54: -1552058628
+      ClimbingWall_67: 584728917
+      ClimbingWall_49: 822530040
+      ClimbingWall_18: -610882004
+      ClimbingWall_97: -1377526361
+      ClimbingWall_71: 370184653
+      ClimbingWall_91: -307914072
+      ClimbingWall_82: 887460583
+      ClimbingWall_74: 2058357338
+      ClimbingWall_52: 38972685
+      ClimbingWall_37: -1382758340
+      ClimbingWall_31: -532496510
+      ClimbingWall_88: -2068971307
+      ClimbingWall_11: -1338626108
+      ClimbingWall_4: 595878640
+      ClimbingWall_29: 537839316
+      ClimbingWall_43: -1153161516
+      ClimbingWall_92: -278160869
+      ClimbingWall_98: 234954714
+      ClimbingWall_5: 1999820636
+      ClimbingWall_39: -94792971
+      ClimbingWall_76: 1693017758
+      ClimbingWall_101: 471476307
+      ClimbingWall_2: 1515941752
+      ClimbingWall_26: 696477401
+      ClimbingWall_46: 882896643
+      ClimbingWall_81: -51069865
+      ClimbingWall_69: 2097267476
+      ClimbingWall_7: 932034923
+      ClimbingWall_24: -1277227142
+      ClimbingWall_75: 1387747657
+      ClimbingWall_12: -2098776825
+      ClimbingWall_107: 392714368
+      ClimbingWall_38: 1373654403
+      ClimbingWall_55: 901918591
+      ClimbingWall_33: 1670170912
+      ClimbingWall_28: -590156806
+      ClimbingWall_96: 973005352
+      ClimbingWall_21: 864017460
+      ClimbingWall_23: 624174120
+      ClimbingWall_65: 729703282
+      ClimbingWall_77: -175001544
+      ClimbingWall_93: 654208702
+      ClimbingWall_79: -1827688700
+      ClimbingWall_34: 1750062619
+      ClimbingWall_13: 643964623
+      ClimbingWall_19: 992325891
+      ClimbingWall_83: 1284637836
+      ClimbingWall_17: 86615362
+      ClimbingWall_9: -2057254842
+      ClimbingWall_80: 1669075792
+      ClimbingWall_6: 26163610
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

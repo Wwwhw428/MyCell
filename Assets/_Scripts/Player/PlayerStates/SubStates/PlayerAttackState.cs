@@ -33,12 +33,15 @@ public class PlayerAttackState : PlayerAbilityState
     {
         base.Enter();
         Movement.SetVelocity(0, 0);
+        _weapon.SetInput(Player.InputHandler.AttackInputsHold[(int) _inputIndex]);
         _weapon.Enter();
     }
 
     public override void LogicUpdate()
     {
         base.LogicUpdate();
+
+        _weapon.SetInput(Player.InputHandler.AttackInputsHold[(int) _inputIndex]);
 
         Movement.SetVelocity(0, 0);
     }

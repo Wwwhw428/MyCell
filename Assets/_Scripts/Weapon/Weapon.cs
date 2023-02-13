@@ -60,6 +60,8 @@ namespace MyCell.Weapon
             }
         }
         private bool _currentInput;
+
+        private float _exitTime;
         #endregion
 
         public WeaponDataSo WeaponData
@@ -86,13 +88,15 @@ namespace MyCell.Weapon
 
         private void OnEnable()
         {
-            //TODO： 不确定是不是应该加OnExit 或 Exit
             AnimationHandler.OnAnimationFinished += Exit;
+            if (Time.time - _exitTime >= WeaponData.CoolingTime)
+                CurrentAttackCount = 0;
         }
 
         private void OnDisable()
         {
             AnimationHandler.OnAnimationFinished -= Exit;
+            _exitTime = Time.time;
         }
 
         #endregion
@@ -101,6 +105,8 @@ namespace MyCell.Weapon
         {
             this.core = core;
         }
+
+        public void SetInput(bool input) => CurrentInput = input;
 
         public void Enter()
         {
@@ -119,7 +125,6 @@ namespace MyCell.Weapon
             gameObject.SetActive(false);
         }
 
-        // TODO: GenerateWeapon
         public void GenerateWeapon()
         {
             CurrentAttackCount = 0;
@@ -130,7 +135,6 @@ namespace MyCell.Weapon
                 return;
             }
 
-            // TODO: add component
             var components = gameObject.AddComponentsToGO<WeaponComponent>(WeaponData.GetAllComponents());
             BaseAnim.runtimeAnimatorController = WeaponData.AnimatorController;
 

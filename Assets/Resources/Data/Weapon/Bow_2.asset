@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26c212fbdc924bf29b52fa2befe2f365, type: 3}
+  m_Name: Bow_2
+  m_EditorClassIdentifier: 
+  WeaponName: Crystal Bow
+  WeaponDescription: A crystal bow that can magically generate a second arrow
+  PickupSprite: {fileID: -920826628, guid: 8b7c381db5e1d7e4a8aa9433928a6a9f, type: 3}
+  NumberOfAttack: 1
+  CoolingTime: 0
+  AnimatorController: {fileID: 9100000, guid: a74402687dfc4944d8f92876a54519ba, type: 2}
+  componentData:
+  - rid: 7757016306644418576
+  - rid: 7757016306644418577
+  - rid: 7757016306644418578
+  - rid: 7757016306644418579
+  - rid: 7757016306644418580
+  - rid: 7757016306644418581
+  references:
+    version: 2
+    RefIds:
+    - rid: 7757016306644418576
+      type: {class: WeaponSpriteData, ns: MyCell.Weapon.Component, asm: Assembly-CSharp}
+      data:
+        <ComponentName>k__BackingField: WeaponSpriteData
+        data:
+        - name: 
+          attackPhases:
+          - name: Point
+            phase: 0
+            sprites:
+            - {fileID: -737365713, guid: a7249f903ce867a479c691a0032c313a, type: 3}
+            - {fileID: -2055134859, guid: a7249f903ce867a479c691a0032c313a, type: 3}
+          - name: Hold
+            phase: 1
+            sprites:
+            - {fileID: -2055134859, guid: a7249f903ce867a479c691a0032c313a, type: 3}
+          - name: Action
+            phase: 3
+            sprites:
+            - {fileID: -454232876, guid: a7249f903ce867a479c691a0032c313a, type: 3}
+            - {fileID: 809441867, guid: a7249f903ce867a479c691a0032c313a, type: 3}
+            - {fileID: 218164507, guid: a7249f903ce867a479c691a0032c313a, type: 3}
+            - {fileID: -639582318, guid: a7249f903ce867a479c691a0032c313a, type: 3}
+    - rid: 7757016306644418577
+      type: {class: WeaponDrawData, ns: MyCell.Weapon.Component, asm: Assembly-CSharp}
+      data:
+        <ComponentName>k__BackingField: WeaponDrawData
+        data:
+        - Name: 
+          curve:
+            serializedVersion: 2
+            m_Curve:
+            - serializedVersion: 3
+              time: 0
+              value: 0
+              inSlope: 0
+              outSlope: 0
+              tangentMode: 0
+              weightedMode: 0
+              inWeight: 0
+              outWeight: 0
+            - serializedVersion: 3
+              time: 1
+              value: 1
+              inSlope: 2
+              outSlope: 2
+              tangentMode: 0
+              weightedMode: 0
+              inWeight: 0
+              outWeight: 0
+            m_PreInfinity: 2
+            m_PostInfinity: 2
+            m_RotationOrder: 0
+          drawTime: 0.2666667
+    - rid: 7757016306644418578
+      type: {class: WeaponChargeData, ns: MyCell.Weapon.Component, asm: Assembly-CSharp}
+      data:
+        <ComponentName>k__BackingField: WeaponChargeData
+        data:
+        - Name: 
+          StartWithOne: 1
+          ChargeTime: 1
+          NumOfCharges: 2
+          ChargeParticlesPrefab: {fileID: 6762676686280720063, guid: 653045a098bcaa5489f99f9bab7a5580, type: 3}
+          MaxChargeParticlesPrefab: {fileID: 6762676686280720063, guid: 653045a098bcaa5489f99f9bab7a5580, type: 3}
+          Offset: {x: 0, y: 0}
+    - rid: 7757016306644418579
+      type: {class: OptionalAttachmentPointData, ns: MyCell.Weapon.Component, asm: Assembly-CSharp}
+      data:
+        <ComponentName>k__BackingField: OptionalAttachmentPointData
+        data:
+        - AttackName: 
+          Sprite: {fileID: -992283890, guid: f90775480959d9e4c8eea9313877b2bc, type: 3}
+          UseSprite: 1
+    - rid: 7757016306644418580
+      type: {class: ChargeProjectileSpawnModifierData, ns: MyCell.Weapon.Component, asm: Assembly-CSharp}
+      data:
+        <ComponentName>k__BackingField: ChargeProjectileSpawnModifierData
+        data:
+        - Name: 
+          AngleVariation: 2
+    - rid: 7757016306644418581
+      type: {class: AttackRangedData, ns: MyCell.Weapon.Component, asm: Assembly-CSharp}
+      data:
+        <ComponentName>k__BackingField: AttackRangedData
+        data:
+        - AttackName: 
+          debug: 0
+          AttackData:
+          - offset: {x: 0.92, y: 0.2}
+            direction: {x: 1, y: 0}
+            projectileData: {fileID: 11400000, guid: 03837cd95af9e0247b37932c2e40b571, type: 2}

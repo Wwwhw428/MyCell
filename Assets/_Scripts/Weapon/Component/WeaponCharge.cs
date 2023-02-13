@@ -10,10 +10,10 @@ namespace MyCell.Weapon.Component
         private WeaponModifiers weaponModifiers;
         private readonly ChargeModifier chargeModifier = new ChargeModifier();
 
-        private ParticleManager particleManager;
+        private ParticleManager _particleManager;
         private ParticleManager ParticleManager
         {
-            get => particleManager ?? core.GetCoreComponent(ref particleManager);
+            get => _particleManager ?? core.GetCoreComponent(ref _particleManager);
         }
 
         private TimerNotifier timer;
